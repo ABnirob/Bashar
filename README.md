@@ -1,3 +1,17 @@
+<text x="50%" y="55%" text-anchor="middle"
+      fill="white" font-size="28"
+      font-family="monospace">
+
+  <tspan opacity="0">M<animate attributeName="opacity" to="1" begin="0s" dur="0.2s" fill="freeze"/></tspan>
+  <tspan opacity="0">d<animate attributeName="opacity" to="1" begin="0.2s" dur="0.2s" fill="freeze"/></tspan>
+  <tspan opacity="0">.<animate attributeName="opacity" to="1" begin="0.4s" dur="0.2s" fill="freeze"/></tspan>
+  <!-- continue... -->
+  
+</text>
+
+
+
+
 <div align="center">
 
 <!-- Animated Typing Header -->
