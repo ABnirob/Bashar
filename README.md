@@ -1,4 +1,5 @@
-<text x="50%" y="55%" text-anchor="middle"
+<!-- 
+!<text x="50%" y="55%" text-anchor="middle"
       fill="white" font-size="28"
       font-family="monospace">
 
@@ -8,6 +9,7 @@
   <!-- continue... -->
   
 </text>
+-->
 
 
 
